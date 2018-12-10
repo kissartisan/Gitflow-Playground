@@ -1,0 +1,5 @@
+This is a user registration module.
+1. Sign up the user
+2. Add user type
+3. Send email to users
+4. Send email to admins
