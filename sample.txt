@@ -1,1 +1,4 @@
-Foo Bar Baz!
+Modified by Hotfix
+Hello world & Foo Bar Baz not required
+
+-------------------------------------
