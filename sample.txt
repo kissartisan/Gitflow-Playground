@@ -1,4 +1,3 @@
 Modified by Hotfix
-Hello world & Foo Bar Baz not required
+Hello world & Foo Bar Baz not required.
 
--------------------------------------
